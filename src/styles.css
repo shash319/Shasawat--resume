@@ -97,7 +97,8 @@ li::marker {
 }
 
 a {
-  color: #4e567e;
+  color: #ffffff;
+  font-family: 'Montserrat';
   text-decoration: none;
 }
 
