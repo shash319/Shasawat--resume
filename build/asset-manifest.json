@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shasawat--resume/static/css/main.4a64b2a7.css",
-    "main.js": "/Shasawat--resume/static/js/main.9b1d90a0.js",
+    "main.css": "/Shasawat--resume/static/css/main.266ca331.css",
+    "main.js": "/Shasawat--resume/static/js/main.39c6c641.js",
     "static/media/profession_coding.jpg": "/Shasawat--resume/static/media/profession_coding.e6364b339d1399d27417.jpg",
     "static/media/background_intro2.jpg": "/Shasawat--resume/static/media/background_intro2.1569ad9c2ab251b30d4e.jpg",
     "static/media/design_desk2.webp": "/Shasawat--resume/static/media/design_desk2.63be725d325c15213536.webp",
@@ -15,11 +15,11 @@
     "static/media/medium.svg": "/Shasawat--resume/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
     "static/media/down-arrow.svg": "/Shasawat--resume/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
     "static/media/envelope.svg": "/Shasawat--resume/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
-    "main.4a64b2a7.css.map": "/Shasawat--resume/static/css/main.4a64b2a7.css.map",
-    "main.9b1d90a0.js.map": "/Shasawat--resume/static/js/main.9b1d90a0.js.map"
+    "main.266ca331.css.map": "/Shasawat--resume/static/css/main.266ca331.css.map",
+    "main.39c6c641.js.map": "/Shasawat--resume/static/js/main.39c6c641.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a64b2a7.css",
-    "static/js/main.9b1d90a0.js"
+    "static/css/main.266ca331.css",
+    "static/js/main.39c6c641.js"
   ]
 }
